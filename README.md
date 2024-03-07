@@ -1,3 +1,5 @@
+Disclaimer This repository has been created during lessons on "Full Stack Developer with React Bootcamp". The contents of the repository are based on Skillsoft/Percipio learning content originally created by Axle Barr. I have but modified a default Angular project to match the lesson instructions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
